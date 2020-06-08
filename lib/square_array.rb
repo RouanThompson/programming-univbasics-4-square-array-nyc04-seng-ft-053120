@@ -5,11 +5,10 @@ def square_array(array)
   new_array = []
   size = array.length
 
-  while i <= size {
+  while i <= size do
     num = array[i]**2
     new_array.push(num)
     i += 1
-  }
   end
   new_array
 end
