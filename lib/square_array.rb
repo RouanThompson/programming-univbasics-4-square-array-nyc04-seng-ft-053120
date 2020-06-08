@@ -7,4 +7,5 @@ def square_array(array)
     new_array.push(array[i] ^ array[i])
     i += 1
   end
+  new_array
 end
