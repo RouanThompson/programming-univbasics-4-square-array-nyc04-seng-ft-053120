@@ -5,8 +5,7 @@ def square_array(array)
   new_array = []
   size = array.length
   while i <= size do
-    num = array[i]
-    num = num**
+    num = array[i]**
     new_array.push(num)
     i += 1
   end
