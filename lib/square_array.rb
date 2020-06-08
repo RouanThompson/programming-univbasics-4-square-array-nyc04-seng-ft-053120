@@ -1,6 +1,6 @@
 def square_array(array)
   squared = []
-  while i < 
-    
+  while i <
+
   end
 end
