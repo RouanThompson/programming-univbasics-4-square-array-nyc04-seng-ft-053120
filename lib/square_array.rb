@@ -1,3 +1,4 @@
+require 'math'
 def square_array(array)
   i = 0
   num = 0
