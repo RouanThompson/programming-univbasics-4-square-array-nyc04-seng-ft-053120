@@ -10,5 +10,6 @@ def square_array(array)
     new_array.push(num)
     i += 1
   }
+  end
   new_array
 end
